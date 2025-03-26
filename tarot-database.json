@@ -1,0 +1,690 @@
+{
+  "Major": [],
+  "Minor": [],
+  "Oracle": [
+    {
+      "name": "Child",
+      "image": "https://i.ibb.co/k60Gqcxc/15.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Bird",
+      "image": "https://i.ibb.co/xKTq36fq/14.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Whip",
+      "image": "https://i.ibb.co/XvpBFsH/13.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Scythe",
+      "image": "https://i.ibb.co/nNLXWzLC/12.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Bouquet",
+      "image": "https://i.ibb.co/FpvzQSv/11.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Coffin",
+      "image": "https://i.ibb.co/zhkLZTLf/10.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Gentleman",
+      "image": "https://i.ibb.co/XZMhjmw6/1.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Cross",
+      "image": "https://i.ibb.co/jZBJbc1R/36.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Anchor",
+      "image": "https://i.ibb.co/S8K4cz9/35.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Fish",
+      "image": "https://i.ibb.co/bt4ZDgL/34.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Key",
+      "image": "https://i.ibb.co/jkXBDjqm/33.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Moon",
+      "image": "https://i.ibb.co/DfkY7LS2/32.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Sun",
+      "image": "https://i.ibb.co/tpSmnhYh/31.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Lily",
+      "image": "https://i.ibb.co/rffHgPVr/30.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Letter",
+      "image": "https://i.ibb.co/gbLgYK76/29.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Book",
+      "image": "https://i.ibb.co/1tpcRVtW/28.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Ring",
+      "image": "https://i.ibb.co/mVtGFZVJ/27.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Heart",
+      "image": "https://i.ibb.co/Ztd6YZj/26.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Mice",
+      "image": "https://i.ibb.co/RT9MXp7J/25.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Crossroad",
+      "image": "https://i.ibb.co/twqscw6V/24.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Mountain",
+      "image": "https://i.ibb.co/S7G78Bn1/23.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Garden",
+      "image": "https://i.ibb.co/bjxxqSZz/22.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Tower",
+      "image": "https://i.ibb.co/933kgjvs/21.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Dog",
+      "image": "https://i.ibb.co/ycKHHV1b/20.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Stork",
+      "image": "https://i.ibb.co/YTBZgFMQ/19.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Stars",
+      "image": "https://i.ibb.co/W43QDFTG/18.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Bear",
+      "image": "https://i.ibb.co/ds3N6xxX/17.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Fox",
+      "image": "https://i.ibb.co/wZWQd76y/16.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Snake",
+      "image": "https://i.ibb.co/9mxj5WsL/9.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Clouds",
+      "image": "https://i.ibb.co/FkfkSfNh/8.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Tree",
+      "image": "https://i.ibb.co/hRxhQ87k/7.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "House",
+      "image": "https://i.ibb.co/q3bvVnmQ/6.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Ship",
+      "image": "https://i.ibb.co/5gNn96QD/5.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Clover",
+      "image": "https://i.ibb.co/rRqxVG8y/4.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Rider",
+      "image": "https://i.ibb.co/jPCg86F1/3.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    },
+    {
+      "name": "Lady",
+      "image": "https://i.ibb.co/7dmYrBYG/2.png",
+      "represents": {
+        "planet": "",
+        "zodiac": "",
+        "element": ""
+      },
+      "upright": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      },
+      "reversed": {
+        "yesno": "Yes",
+        "tags": "",
+        "description": ""
+      }
+    }
+  ]
+}
